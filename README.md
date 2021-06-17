@@ -5,8 +5,8 @@
 
 ### About Me - Sobre Mim
 
-I'm a technology course student.
-Sou estudante de curso de tecnologia.
+<p>I'm a technology course student.</p>
+<p>Sou estudante de curso de tecnologia.</p>
 
 <!---
 gabrielsvpinheiro/gabrielsvpinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
