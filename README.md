@@ -5,7 +5,7 @@
 
 ### Sobre Mim
 
-<p>Sou estudante de curso de tecnologia.</p>
+<p>Desenvolvedor e cursando Sistemas de Informação</p>
 
 <!---
 gabrielsvpinheiro/gabrielsvpinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
