@@ -1,6 +1,6 @@
 ## Olá, sou Gabriel Pinheiro
 
-- 👨‍💻 Desenvolvedor <strong>Front-end</strong>
+- 👨‍💻 Desenvolvedor <strong>FullStack</strong>
 - 📗 Estudando <strong>ReactJS</strong>
 
 <div align="center">
