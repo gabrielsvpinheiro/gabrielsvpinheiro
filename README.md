@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Gabriel Pinheiro]!
+# 👋 Hi, I'm Gabriel Pinheiro!
 
 I am a **Software Engineer** with experience in **Full-Stack Development**
 
@@ -10,7 +10,7 @@ I am a **Software Engineer** with experience in **Full-Stack Development**
 - **CSS Frameworks**: Tailwind CSS, Bootstrap
 
 ### **Back-End Development**
-- **Languages & Frameworks**: C# (.NET Core), PHP (Laravel), Python
+- **Languages & Frameworks**: C#, PHP, Python
 - **Database**: SQL, MySQL
 
 ### **Other Skills & Cloud**
