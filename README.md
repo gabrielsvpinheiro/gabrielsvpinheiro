@@ -1,8 +1,8 @@
+### 👋 Hi, I'm Gabriel Pinheiro!
 
-# 👋 Hi, I'm Gabriel Pinheiro!
+A **Software Engineer** at **EBANX**
 
-I am a **Software Engineer** with experience in **Full-Stack Development**
-
-## 📫 **Connect with Me**
+#### 📫 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/gabrielsvpinheiro/)
 - [Email](mailto:gabriel.silva.pinheiro2@gmail.com)
+
